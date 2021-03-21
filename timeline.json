@@ -10,6 +10,74 @@
           "text": "<p>Histoire de la FPC en France .</p>"
         }
     },
+    "eras": [
+      {
+        "start_date": {
+          "year": "1960"
+        },
+        "end_date": {
+          "year": "1970"
+        },        
+        "text": {
+          "headline": "Les prémisses de l'ingénierie de formation"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1976"
+        },
+        "end_date": {
+          "year": "1982"
+        },        
+        "text": {
+          "headline": "L'ère du catalogue"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1971"
+        },
+        "end_date": {
+          "year": "1975"
+        },        
+        "text": {
+          "headline": "L'Obligation de se former"
+        }
+      },     
+      {
+        "start_date": {
+          "year": "1983"
+        },
+        "end_date": {
+          "year": "1992"
+        },        
+        "text": {
+          "headline": "L'émergence du concept d'ingénierie de formation"
+        }
+      },     
+      {
+        "start_date": {
+          "year": "1993"
+        },
+        "end_date": {
+          "year": "1999"
+        },        
+        "text": {
+          "headline": "L'ingénierie de formation, une nouvelle nécessité"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2000"
+        },
+        "end_date": {
+          "year": "2017"
+        },        
+        "text": {
+          "headline": "L'ingénierie plurielle"
+        }
+      }                          
+    ],
     "events": [
       {
         "media": {
@@ -43,15 +111,13 @@
         }
       },
       {
-        "media": {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Antoine_Durafour-1929.jpg",
-          "caption": "Antoine Durafour",
-          "credit": "Wikimedia Commons Domaine Publique"
-        },
         "start_date": {
           "month": "7",
           "day": "13",
           "year": "1925"
+        },
+        "background": {
+          "url": "/assets/img/1925.jpg"
         },
         "display_date": "13 juillet 1925",
         "text": {
@@ -114,17 +180,6 @@
         }
       },
       {
-        "start_date": {
-          "year": "1960"
-        },
-        "end_date": {
-          "year": "1970"
-        },        
-        "text": {
-          "headline": "Les prémisses de l'ingénierie de formation"
-        }
-      },
-      {
         "media": {
           "url": "",
           "caption": "",
@@ -168,18 +223,7 @@
           "headline": "ANI du 9 juillet 1970",
           "text": "Accord national interprofessionnel (ANI) du 9 juillet : 1er accord des partenaires sociaux sur la formation professionnelle.<br />Trois conséquences majeures de l’ANI :<ul><li>il fonde la légitimité des partenaires sociaux à régir le dispositif de formation continue,</li><li>il fait entrer la formation professionnelle dans le droit du travail,</li><li>il exclut le secteur public du dispositif.</li></ul>"
         }
-      },
-      {
-        "start_date": {
-          "year": "1971"
-        },
-        "end_date": {
-          "year": "1975"
-        },        
-        "text": {
-          "headline": "L'Obligation de se former"
-        }
-      },      
+      },    
       {
         "media": {
           "url": "https://www.youtube.com/watch?v=TdMqpze6TZM",
@@ -207,17 +251,6 @@
           "text": "Organisation du préapprentissage - Stages des élèves en cycle d'enseignement alterné dans des entreprises artisanales ou commerciales agréées."
         }
       },
-      {
-        "start_date": {
-          "year": "1976"
-        },
-        "end_date": {
-          "year": "1982"
-        },        
-        "text": {
-          "headline": "L'ère du catalogue"
-        }
-      },
       {      
       "media": {
         "url": "https://img.20mn.fr/n3AYK8meQGqbt6EUFFS4dg/640x410_conseil-ministres-gouvernement-mauroy-marcel-rigout-deuxieme-droite.jpg",
@@ -231,18 +264,7 @@
           "headline": "Création d'un ministère de la formation professionnelle",
           "text": "<p>Rattaché au ministère du travail, confié à Marcel Rigout.</p>"
         }
-      },
-      {
-        "start_date": {
-          "year": "1983"
-        },
-        "end_date": {
-          "year": "1992"
-        },        
-        "text": {
-          "headline": "L'émergence du concept d'ingénierie de formation"
-        }
-      },      
+      },    
       {
         "media": {
           "url": "",
@@ -351,17 +373,6 @@
         "text": "<p>définissant les conventions types pour la réalisation d'un bilan de compétences.</p>"
       }
     },
-    {
-      "start_date": {
-        "year": "1993"
-      },
-      "end_date": {
-        "year": "1999"
-      },        
-      "text": {
-        "headline": "L'ingénierie de formation, une nouvelle nécessité"
-      }
-    },     
     {      
       "start_date": {
         "month": "12",
@@ -435,17 +446,6 @@
       "text": {
         "headline": "Loi du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions",
         "text": ""
-      }
-    },
-    {
-      "start_date": {
-        "year": "2000"
-      },
-      "end_date": {
-        "year": "2017"
-      },        
-      "text": {
-        "headline": "L'ingénierie plurielle"
       }
     },
     {         
