@@ -145,6 +145,7 @@
           "day": "6",           
           "year": "1939"
         },
+        "display_date": "6 mai 1925",        
         "text": {
           "headline": "Financement de la formation professionnelle",
           "text": "Décret-loi du 6 mai 1939, qui constitue le cadre administratif et financier de la formation professionnelle jusqu'en 1946."
@@ -165,18 +166,27 @@
           "day": "26",           
           "year": "1949"
         },
+        "display_date": "26 mars 1949",        
         "text": {
           "headline": "Loi du 26 mars 1949",
           "text": "pour le transfert de la gestion des centres collectifs de formation professionnelle accélérée à l'Association nationale interprofessionnelle pour la formation rationnelle de la main-d'œuvre (ANIFRMO) (qui deviendra l’AFPA, Association pour la formation professionnelle des adultes, en 1966) pour participer à la reconstruction du pays après la seconde Guerre mondiale."
         }
       },
       {
+        "media": {
+          "url": "https://www2.assemblee-nationale.fr/var/ezflow_site/storage/images/media/histoire/veme-republique/les-premiers-ministres/michel-debre/114118-1-fre-FR/michel-debre.jpg",
+          "caption": "Michel Debré",
+          "credit": "<a href='https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/la-ve-republique/tous-les-gouvernements-depuis-1958/presidence-de-charles-de-gaulle-1959-1969#node_8709' target='_blank'>&copy; AFP pour l'Assemblée Nationale</a>"
+        }, 
         "start_date": {
+          "month": "7",
+          "day": "31",
           "year": "1959"
         },
+        "display_date": "31 juillet 1959",
         "text": {
           "headline": "Loi Debré sur la promotion sociale",
-          "text": "permettant aux centres de formation de mettre en place des cours du soir. On défend alors l’idée que la formation devait être un effort individuel récompensé par une promotion. Elle reprend les objectifs de pacification de la société de l’éducation populaire."
+          "text": "Loi permettant aux centres de formation de mettre en place des cours du soir. On défend alors l’idée que la formation devait être un effort individuel récompensé par une promotion. Elle reprend les objectifs de pacification de la société de l’éducation populaire. <br /><br /> <a href='https://journals.openedition.org/histoire-education/725#ftn18' target='_blank'>En savoir plus</a>"
         }
       },
       {
@@ -196,11 +206,15 @@
       {
         "start_date": {
           "month": "12",
-          "day": "30",            
+          "day": "3",            
           "year": "1966"
         },
+        "background": {
+          "url": "/assets/img/1966.jpg"
+        },        
+        "display_date": "3 décembre 1966",        
         "text": {
-          "headline": "Loi du 30 décembre 1966",
+          "headline": "Loi du 3 décembre 1966",
           "text": "La loi qui organise la formation professionnelle en France. l’État doit intervenir dans le domaine de la formation, et lui seul, la formation doit être un service public."
         }
       },
@@ -219,6 +233,7 @@
           "day": "9",
           "year": "1970"
         },
+        "display_date": "9 juillet 1970",        
         "text": {
           "headline": "ANI du 9 juillet 1970",
           "text": "Accord national interprofessionnel (ANI) du 9 juillet : 1er accord des partenaires sociaux sur la formation professionnelle.<br />Trois conséquences majeures de l’ANI :<ul><li>il fonde la légitimité des partenaires sociaux à régir le dispositif de formation continue,</li><li>il fait entrer la formation professionnelle dans le droit du travail,</li><li>il exclut le secteur public du dispositif.</li></ul>"
@@ -235,6 +250,7 @@
           "day": "16",          
           "year": "1971"
         },
+        "display_date": "16 juillet 1971",        
         "text": {
           "headline": "loi du 16 juillet 1971",
           "text": "rend obligatoire la participation des employeurs au financement des formations technologiques et professionnelles (entrée en vigueur de l’ANI de 1970). Trois conséquences :<ul><li>la loi pose le principe d’un financement privé de la formation</li><li>émergence du marché de la formation (besoins, demande, offre)</li><li>les professions indépendantes sont exclues de cette obligation</li></ul>"
@@ -246,6 +262,7 @@
           "day": "27",          
           "year": "1973"
         },
+        "display_date": "27 décembre 1973",        
         "text": {
           "headline": "Loi du 27 décembre 1973 d'orientation du commerce et de l'artisanat.",
           "text": "Organisation du préapprentissage - Stages des élèves en cycle d'enseignement alterné dans des entreprises artisanales ou commerciales agréées."
@@ -276,8 +293,9 @@
           "day": "14",
           "year": "1983"
         },
+        "display_date": "14 avril 1983",         
         "text": {
-          "headline": "Loi de finance 1983",
+          "headline": "Loi de finance de 1983",
           "text": "<p>Loi de finance 1983 et décret du 14 avril 1983 relatif au transfert de compétences aux régions en matière de formation professionnelle.</p>"
         }
       },
@@ -290,6 +308,7 @@
           "day": "24",
           "year": "1984"
         },
+        "display_date": "24 février 1984",         
         "text": {
           "headline": "Loi Rigout : réforme la formation professionnelle continue ",
           "text": "<p>Loi 'Rigout' du 24 février 1984 en lien avec la modification du code du travail (Lois Auroux). Création du congé individuel de formation. Elle introduit une obligation de négocier sur la formation professionnelle dans les branches professionnelles ou les entreprises en renforçant pour les entreprises le rôle du comité d'entreprise en matière de formation (deux réunions obligatoires annuelles sur la formation). Évolution des règles en matière de validation des acquis (VAP, permet accès à des formations).</p>"
@@ -304,6 +323,7 @@
           "day": "22",
           "year": "1988"
         },
+        "display_date": "22 avril 1988",         
         "text": {
           "headline": "",
           "text": "<p>Circulaire du 22 avril 1988 relative à la mise en œuvre de parcours d'insertion ou de réinsertion professionnelle pour les jeunes demandeurs d'emploi et les chômeurs de longue durée.</p>"
@@ -324,6 +344,7 @@
           "day": "4",          
           "year": "1990"
         },
+        "display_date": "4 juillet 1990",          
         "text": {
           "headline": "Loi du 4 juillet 1990 sur le contrôle et la qualité de la formation.",
           "text": "<p>Réaction à un constat : il y avait de tout dans les organismes de formation, dont des dérives sectaires. L’objectif était de moraliser le marché de la formation. La loi crée un droit à la qualification des organismes de formation (OPQFC) et un droit du consommateur de formation.</p>"
@@ -335,8 +356,9 @@
           "day": "31",          
           "year": "1991"
         },
+        "display_date": "31 décembre 1991",         
         "text": {
-          "headline": "Loi du 31 décembre 91 relative à la formation professionnelle et à l'emploi.",
+          "headline": "Loi du 31 décembre 1991 relative à la formation professionnelle et à l'emploi.",
           "text": "<p>Elle introduit dans le Code du travail le droit à la formation des salariés en CDD. Elle généralise l’obligation de financement de la formation.</p>"
         }
      },
@@ -346,6 +368,7 @@
         "day": "17",          
         "year": "1992"
       },
+      "display_date": "17 juillet 1992",        
       "text": {
         "headline": "Loi du 17 juillet 1992",
         "text": "<p>portant diverses dispositions relatives à l'apprentissage, à la formation professionnelle et modifiant le code du travail. Expérimentation de l'apprentissage dans le secteur public non industriel et commercial.</p>"
@@ -357,6 +380,7 @@
         "day": "29",          
         "year": "1992"
       },
+      "display_date": "29 juillet 1992",          
       "text": {
         "headline": "Loi du 29 juillet 1992",
         "text": "<p>portant adaptation de la loi du 1er décembre 1988 relative au revenu minimum d'insertion et relative à la lutte contre la pauvreté et l'exclusion sociale et professionnelle.</p>"
@@ -368,6 +392,7 @@
         "day": "27",          
         "year": "1992"
       },
+      "display_date": "27 octobre 1992",         
       "text": {
         "headline": "Arrêté du 27 octobre 1992",
         "text": "<p>définissant les conventions types pour la réalisation d'un bilan de compétences.</p>"
@@ -379,6 +404,7 @@
         "day": "20",          
         "year": "1993"
       },
+      "display_date": "20 décembre 1993",        
       "text": {
         "headline": "Loi quinquennale du 20 décembre 1993 relative au travail, à l'emploi et à la formation professionnelle",
         "text": "<p>Elle réforme le financement de la formation professionnelle.<br /><br />Les fonds d’assurance formation deviennent les OPCA. Facilitation des congés d’enseignement et de recherche. La loi pose le principe d’un capital temps formation permettant au salarié de suivre sur leur temps de travail  des formations appartenant au plan de formation de l’entreprise.</p>"
@@ -390,6 +416,7 @@
         "day": "25",          
         "year": "1994"
       },
+      "display_date": "25 juillet 1994",        
       "text": {
         "headline": "Loi du 25 juillet 1994",
         "text": "<p>Loi relative à l'organisation du temps de travail, aux recrutements et aux mutations dans la fonction publique.</p>"
@@ -410,8 +437,9 @@
         "day": "6",          
         "year": "1996"
       },
+      "display_date": "6 mai 1996",  
       "text": {
-        "headline": "Loi du 25 juillet 1994",
+        "headline": "Loi du 6 mai 1996",
         "text": "<p>Loi portant réforme du financement de l'apprentissage.</p>"
       }
     },
@@ -421,6 +449,7 @@
         "day": "20",          
         "year": "1996"
       },
+      "display_date": "20 décembre 1996",        
       "text": {
         "headline": "Arrêté du 20 décembre 1996",
         "text": "<p>Arrêté portant agrément de l'association gestionnaire du fonds national de la formation continue (Association de gestion du Fonds national de gestion paritaire de la formation professionnelle continue (Fongefor).</p>"
@@ -432,6 +461,7 @@
         "day": "16",          
         "year": "1997"
       },
+      "display_date": "16 octobre 1997",       
       "text": {
         "headline": "Loi du 16 octobre 1997 relative au développement d'activités pour l'emploi des jeunes",
         "text": ""
@@ -443,17 +473,24 @@
         "day": "29",          
         "year": "1998"
       },
+      "display_date": "29 juillet 1998",       
       "text": {
         "headline": "Loi du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions",
-        "text": ""
+        "text": "Cette loi présente deux orientations fondamentales : <br /><ul><li>Un traitement des exclusions : la loi affirme la complexité et la diversité des processus d’exclusion qu’elle entend combattre (perte d’emploi ou de logement, problèmes de santé, familiaux, financiers). De ce fait, le champ couvert par la loi d’orientation inclut l’emploi et la formation, le logement, la santé, l’éducation et la culture, la protection sociale, le surendettement, la citoyenneté, le sport, les vacances, les loisirs ou encore les transports.</li><li>L’accès aux droits fondamentaux : la loi considère que le problème des personnes en difficulté n’est pas de disposer de nouveaux droits mais d’avoir effectivement accès aux droits fondamentaux existants. L’essentiel des dispositions vise donc à créer les conditions et les procédures par lesquelles cet accès aux droits sera mieux garanti dans chacun des domaines de la vie pour les personnes les plus fragilisées par les mutations de la société.</li></ul>"
       }
     },
-    {         
+    {     
+      "media": {
+        "url": "/assets/img/2000.jpg",
+        "caption": "Martine Aubry",
+        "credit": "Creative Commons BY-SA"
+      },    
       "start_date": {         
-        "month": "7",
-        "day": "29",          
-        "year": "1998"
+        "month": "1",
+        "day": "19",          
+        "year": "2000"
       },
+      "display_date": "19 janvier 2000",         
       "text": {
         "headline": "Loi Aubry II du 19 janvier 2000",
         "text": "<p>Obligation pour l’employeur d’adapter les salariés à l’évolution de leurs emplois. Toute action de formation dans ce cadre constitue du temps de travail effectif. Deux mesures protectrices pour les salariés : la rémunération du salarié ne doit pas être modifiée et le refus du salarié de participer à ces actions de formation ne constitue pas une cause réelle et sérieuse de licenciement (a fortiori pas une faute).</p>"
@@ -470,7 +507,12 @@
         "text": "<p>Circulaire relative aux formations ouvertes et/ou à distance (<a href='https://fr.wikipedia.org/wiki/Formation_%C3%A0_distance' target='_blank'>FOAD</a>). Conditions de recours aux nouvelles modalités techniques et pédagogiques et notamment à l'utilisation de l'internet dans le cadre de la formation professionnelle.</p>"
       }
     },
-    {         
+    {
+      "media": {
+        "url": "/assets/img/2002.jpg",
+        "caption": "Lionel Jospin",
+        "credit": "Creative Commons BY-SA"
+      },               
       "start_date": {         
         "month": "1",
         "day": "17",          
@@ -478,7 +520,7 @@
       },
       "text": {
         "headline": "Loi de modernisation sociale 17 janvier 2002",
-        "text": "Validation des acquis de l'expérience, VAE.</p>"
+        "text": "<p>Validation des acquis de l'expérience, VAE.</p>"
       }
     },
     {         
