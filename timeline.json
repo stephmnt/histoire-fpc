@@ -1,0 +1,589 @@
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Histoire de la Formation<br/> Professionnelle Continue",
+          "text": "<p>Histoire de la FPC en France .</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Condorcet-NB.jpg",
+          "caption": "Nicolas de Condorcet",
+          "credit": "Wikimedia Commons Domaine Publique"
+        },
+        "start_date": {
+          "year": "1792"
+        },
+        "text": {
+          "headline": "Condorcet",
+          "text": "Condorcet distingue l'instruction de l'éducation et pose le premier jalon de la formation pour adultes : <p>« <i>Nous avons observé que l'instruction ne devait pas abandonner les individus au moment où ils sortent de l'école, qu'elle devait embrasser tous les âges; et qu'il n'y en avait aucun où il ne fut plus utile et possible d'apprendre, et que cette seconde instruction est d'autant plus nécessaire, que celle de l'enfance a été resserrée dans des bornes plus étroites</i> »</p> (extrait du <a href='http://gallica.bnf.fr/ark:/12148/bpt6k488703' target='_blank'>Rapport sur l'organisation générale de l'Instruction publique</a>, 1792)"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astier,_Placide.jpg/260px-Astier,_Placide.jpg",
+          "caption": "Placide Astier, Sénateur",
+          "credit": "Wikimedia Commons Domaine Publique"
+        },
+        "start_date": {
+          "month": "7",
+          "day": "25",          
+          "year": "1919"
+        },
+        "display_date": "25 juillet 1919",
+        "text": {
+          "headline": "Loi Astier",
+          "text": "La loi Astier codifie l'enseignement technique, industriel et commercial. C’est la première intervention de l’état en matière d’organisation de la formation professionnelle. Elle pose les bases d'un enseignement technique unifié."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Antoine_Durafour-1929.jpg",
+          "caption": "Antoine Durafour",
+          "credit": "Wikimedia Commons Domaine Publique"
+        },
+        "start_date": {
+          "month": "7",
+          "day": "13",
+          "year": "1925"
+        },
+        "display_date": "13 juillet 1925",
+        "text": {
+          "headline": "La taxe d'apprentissage",
+          "text": "Instauration de la taxe d'apprentissage pour financer le système de formation des apprentis à l'occasion de la loi de finance du 13 juillet 1925."
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1935"
+        },
+        "text": {
+          "headline": "Rééducation professionnelle des chômeurs",
+          "text": "Décrets de 1935 pour la « rééducation professionnelle des chômeurs ». L’État intervient en matière de formation professionnelle pour la 1ère fois depuis 1919. Il s’agit de faciliter le reclassement des chômeurs (crise économique 30) et de favoriser la promotion ouvrière."
+        }
+      },
+      {
+        "start_date": {
+          "month": "5",
+          "day": "6",           
+          "year": "1939"
+        },
+        "text": {
+          "headline": "Financement de la formation professionnelle",
+          "text": "Décret-loi du 6 mai 1939, qui constitue le cadre administratif et financier de la formation professionnelle jusqu'en 1946."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1946"
+        },
+        "text": {
+          "headline": "Droit à la formation",
+          "text": "Le droit à la formation professionnelle figure pour la première fois, tout comme le droit à la sécurité sociale, dans le préambule de la Constitution de la IV° République. 1ère loi relative aux centres de formation professionnelle."
+        }
+      },
+      {
+        "start_date": {
+          "month": "3",
+          "day": "26",           
+          "year": "1949"
+        },
+        "text": {
+          "headline": "Loi du 26 mars 1949",
+          "text": "pour le transfert de la gestion des centres collectifs de formation professionnelle accélérée à l'Association nationale interprofessionnelle pour la formation rationnelle de la main-d'œuvre (ANIFRMO) (qui deviendra l’AFPA, Association pour la formation professionnelle des adultes, en 1966) pour participer à la reconstruction du pays après la seconde Guerre mondiale."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1959"
+        },
+        "text": {
+          "headline": "Loi Debré sur la promotion sociale",
+          "text": "permettant aux centres de formation de mettre en place des cours du soir. On défend alors l’idée que la formation devait être un effort individuel récompensé par une promotion. Elle reprend les objectifs de pacification de la société de l’éducation populaire."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1960"
+        },
+        "end_date": {
+          "year": "1970"
+        },        
+        "text": {
+          "headline": "Les prémisses de l'ingénierie de formation"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1963"
+        },
+        "text": {
+          "headline": "Fond National Pour l'Emploi",
+          "text": "Création du FNE qui finance les reconversions dans les secteurs industriels qui entamaient leur restructuration."
+        }
+      },
+      {
+        "start_date": {
+          "month": "12",
+          "day": "30",            
+          "year": "1966"
+        },
+        "text": {
+          "headline": "Loi du 30 décembre 1966",
+          "text": "La loi qui organise la formation professionnelle en France. l’État doit intervenir dans le domaine de la formation, et lui seul, la formation doit être un service public."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1968"
+        },
+        "text": {
+          "headline": "Accords de Grenelle prévoyant une négociation sur la formation professionnelle.",
+          "text": "Elle s’ouvre en 1969 avec des objectifs multiples : répondre au besoin en main d’œuvre qualifiée des entreprises, répondre aux aspirations individuelles de promotion liées à la croissance et à la société de consommation, et corriger les inégalités du système scolaire."
+        }
+      },
+      {
+        "start_date": {
+          "month": "7",
+          "day": "9",
+          "year": "1970"
+        },
+        "text": {
+          "headline": "ANI du 9 juillet 1970",
+          "text": "Accord national interprofessionnel (ANI) du 9 juillet : 1er accord des partenaires sociaux sur la formation professionnelle.<br />Trois conséquences majeures de l’ANI :<ul><li>il fonde la légitimité des partenaires sociaux à régir le dispositif de formation continue,</li><li>il fait entrer la formation professionnelle dans le droit du travail,</li><li>il exclut le secteur public du dispositif.</li></ul>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1971"
+        },
+        "end_date": {
+          "year": "1975"
+        },        
+        "text": {
+          "headline": "L'Obligation de se former"
+        }
+      },      
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=TdMqpze6TZM",
+          "caption": "Les Shadoks sont indispensables pour la formation professionnelle",
+          "credit": "<a href='http://www.ina.fr/video/CAF91052477' target='_blank' title='INA'>INA - Conseil National du Patronat Français - JT de 20h du 17 juil. 1974</a>"
+        },
+        "start_date": {
+          "month": "7",
+          "day": "16",          
+          "year": "1971"
+        },
+        "text": {
+          "headline": "loi du 16 juillet 1971",
+          "text": "rend obligatoire la participation des employeurs au financement des formations technologiques et professionnelles (entrée en vigueur de l’ANI de 1970). Trois conséquences :<ul><li>la loi pose le principe d’un financement privé de la formation</li><li>émergence du marché de la formation (besoins, demande, offre)</li><li>les professions indépendantes sont exclues de cette obligation</li></ul>"
+        }
+      },
+      {
+        "start_date": {
+          "month": "12",
+          "day": "27",          
+          "year": "1973"
+        },
+        "text": {
+          "headline": "Loi du 27 décembre 1973 d'orientation du commerce et de l'artisanat.",
+          "text": "Organisation du préapprentissage - Stages des élèves en cycle d'enseignement alterné dans des entreprises artisanales ou commerciales agréées."
+        }
+      },
+      {
+        "start_date": {
+          "year": "1976"
+        },
+        "end_date": {
+          "year": "1982"
+        },        
+        "text": {
+          "headline": "L'ère du catalogue"
+        }
+      },
+      {      
+      "media": {
+        "url": "https://img.20mn.fr/n3AYK8meQGqbt6EUFFS4dg/640x410_conseil-ministres-gouvernement-mauroy-marcel-rigout-deuxieme-droite.jpg",
+        "caption": "",
+        "credit": ""
+      },                
+        "start_date": {        
+          "year": "1981"
+        },
+        "text": {
+          "headline": "Création d'un ministère de la formation professionnelle",
+          "text": "<p>Rattaché au ministère du travail, confié à Marcel Rigout.</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1983"
+        },
+        "end_date": {
+          "year": "1992"
+        },        
+        "text": {
+          "headline": "L'émergence du concept d'ingénierie de formation"
+        }
+      },      
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "4",
+          "day": "14",
+          "year": "1983"
+        },
+        "text": {
+          "headline": "Loi de finance 1983",
+          "text": "<p>Loi de finance 1983 et décret du 14 avril 1983 relatif au transfert de compétences aux régions en matière de formation professionnelle.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "http://www.dutoitfreeblog.com/.a/6a00d83451935369e201a73e0806f1970d-pi"
+        },
+        "start_date": {
+          "month": "2",
+          "day": "24",
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Loi Rigout : réforme la formation professionnelle continue ",
+          "text": "<p>Loi 'Rigout' du 24 février 1984 en lien avec la modification du code du travail (Lois Auroux). Création du congé individuel de formation. Elle introduit une obligation de négocier sur la formation professionnelle dans les branches professionnelles ou les entreprises en renforçant pour les entreprises le rôle du comité d'entreprise en matière de formation (deux réunions obligatoires annuelles sur la formation). Évolution des règles en matière de validation des acquis (VAP, permet accès à des formations).</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "http://www.dutoitfreeblog.com/.a/6a00d83451935369e201a73e0806f1970d-pi"
+        },
+        "start_date": {
+          "month": "4",
+          "day": "22",
+          "year": "1988"
+        },
+        "text": {
+          "headline": "",
+          "text": "<p>Circulaire du 22 avril 1988 relative à la mise en œuvre de parcours d'insertion ou de réinsertion professionnelle pour les jeunes demandeurs d'emploi et les chômeurs de longue durée.</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1989"
+        },
+        "text": {
+          "headline": "Mise en place du crédit formation jeune",
+          "text": "<p></p>"
+        }
+      },
+      {
+        "start_date": {
+          "month": "7",
+          "day": "4",          
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Loi du 4 juillet 1990 sur le contrôle et la qualité de la formation.",
+          "text": "<p>Réaction à un constat : il y avait de tout dans les organismes de formation, dont des dérives sectaires. L’objectif était de moraliser le marché de la formation. La loi crée un droit à la qualification des organismes de formation (OPQFC) et un droit du consommateur de formation.</p>"
+        }
+      },
+      {      
+        "start_date": {
+          "month": "12",
+          "day": "31",          
+          "year": "1991"
+        },
+        "text": {
+          "headline": "Loi du 31 décembre 91 relative à la formation professionnelle et à l'emploi.",
+          "text": "<p>Elle introduit dans le Code du travail le droit à la formation des salariés en CDD. Elle généralise l’obligation de financement de la formation.</p>"
+        }
+     },
+     {      
+      "start_date": {
+        "month": "7",
+        "day": "17",          
+        "year": "1992"
+      },
+      "text": {
+        "headline": "Loi du 17 juillet 1992",
+        "text": "<p>portant diverses dispositions relatives à l'apprentissage, à la formation professionnelle et modifiant le code du travail. Expérimentation de l'apprentissage dans le secteur public non industriel et commercial.</p>"
+      }
+    },
+    {      
+      "start_date": {
+        "month": "7",
+        "day": "29",          
+        "year": "1992"
+      },
+      "text": {
+        "headline": "Loi du 29 juillet 1992",
+        "text": "<p>portant adaptation de la loi du 1er décembre 1988 relative au revenu minimum d'insertion et relative à la lutte contre la pauvreté et l'exclusion sociale et professionnelle.</p>"
+      }
+    },    
+    {      
+      "start_date": {
+        "month": "10",
+        "day": "27",          
+        "year": "1992"
+      },
+      "text": {
+        "headline": "Arrêté du 27 octobre 1992",
+        "text": "<p>définissant les conventions types pour la réalisation d'un bilan de compétences.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1993"
+      },
+      "end_date": {
+        "year": "1999"
+      },        
+      "text": {
+        "headline": "L'ingénierie de formation, une nouvelle nécessité"
+      }
+    },     
+    {      
+      "start_date": {
+        "month": "12",
+        "day": "20",          
+        "year": "1993"
+      },
+      "text": {
+        "headline": "Loi quinquennale du 20 décembre 1993 relative au travail, à l'emploi et à la formation professionnelle",
+        "text": "<p>Elle réforme le financement de la formation professionnelle.<br /><br />Les fonds d’assurance formation deviennent les OPCA. Facilitation des congés d’enseignement et de recherche. La loi pose le principe d’un capital temps formation permettant au salarié de suivre sur leur temps de travail  des formations appartenant au plan de formation de l’entreprise.</p>"
+      }
+    },
+    {      
+      "start_date": {
+        "month": "7",
+        "day": "25",          
+        "year": "1994"
+      },
+      "text": {
+        "headline": "Loi du 25 juillet 1994",
+        "text": "<p>Loi relative à l'organisation du temps de travail, aux recrutements et aux mutations dans la fonction publique.</p>"
+      }
+    },  
+    {         
+      "start_date": {         
+        "year": "1995"
+      },
+      "text": {
+        "headline": "Avis relatif à la création d'une Commission nationale pour l'agrément de produits pédagogiques adaptés à la formation professionnelle",
+        "text": ""
+      }
+    },
+    {         
+      "start_date": {         
+        "month": "5",
+        "day": "6",          
+        "year": "1996"
+      },
+      "text": {
+        "headline": "Loi du 25 juillet 1994",
+        "text": "<p>Loi portant réforme du financement de l'apprentissage.</p>"
+      }
+    },
+    {         
+      "start_date": {         
+        "month": "12",
+        "day": "20",          
+        "year": "1996"
+      },
+      "text": {
+        "headline": "Arrêté du 20 décembre 1996",
+        "text": "<p>Arrêté portant agrément de l'association gestionnaire du fonds national de la formation continue (Association de gestion du Fonds national de gestion paritaire de la formation professionnelle continue (Fongefor).</p>"
+      }
+    },
+    {         
+      "start_date": {         
+        "month": "10",
+        "day": "16",          
+        "year": "1997"
+      },
+      "text": {
+        "headline": "Loi du 16 octobre 1997 relative au développement d'activités pour l'emploi des jeunes",
+        "text": ""
+      }
+    },
+    {         
+      "start_date": {         
+        "month": "7",
+        "day": "29",          
+        "year": "1998"
+      },
+      "text": {
+        "headline": "Loi du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions",
+        "text": ""
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000"
+      },
+      "end_date": {
+        "year": "2017"
+      },        
+      "text": {
+        "headline": "L'ingénierie plurielle"
+      }
+    },
+    {         
+      "start_date": {         
+        "month": "7",
+        "day": "29",          
+        "year": "1998"
+      },
+      "text": {
+        "headline": "Loi Aubry II du 19 janvier 2000",
+        "text": "<p>Obligation pour l’employeur d’adapter les salariés à l’évolution de leurs emplois. Toute action de formation dans ce cadre constitue du temps de travail effectif. Deux mesures protectrices pour les salariés : la rémunération du salarié ne doit pas être modifiée et le refus du salarié de participer à ces actions de formation ne constitue pas une cause réelle et sérieuse de licenciement (a fortiori pas une faute).</p>"
+      }
+    }, 
+    {         
+      "start_date": {         
+        "month": "7",
+        "day": "20",          
+        "year": "2001"
+      },
+      "text": {
+        "headline": "Circulaire DGEFP du 20 juillet 2001",
+        "text": "<p>Circulaire relative aux formations ouvertes et/ou à distance (<a href='https://fr.wikipedia.org/wiki/Formation_%C3%A0_distance' target='_blank'>FOAD</a>). Conditions de recours aux nouvelles modalités techniques et pédagogiques et notamment à l'utilisation de l'internet dans le cadre de la formation professionnelle.</p>"
+      }
+    },
+    {         
+      "start_date": {         
+        "month": "1",
+        "day": "17",          
+        "year": "2002"
+      },
+      "text": {
+        "headline": "Loi de modernisation sociale 17 janvier 2002",
+        "text": "Validation des acquis de l'expérience, VAE.</p>"
+      }
+    },
+    {         
+      "start_date": {                   
+        "year": "2003"
+      },
+      "text": {
+        "headline": "Accord National Interprofessionnel",
+        "text": "<p>ANI signé par tous les partenaires sociaux débouchant sur la loi du 4 mai 2004</p>"
+      }
+    },    
+    {         
+      "start_date": { 
+        "month": "5",
+        "day": "4",                             
+        "year": "2004"
+      },
+      "text": {
+        "headline": "Loi du 4 mai 2004",
+        "text": "<p>Loi du 4 mai 2004 relative à la formation professionnelle tout au long de la vie et au dialogue social. Création du DIF.</p>"
+      }
+    }, 
+    {         
+      "start_date": { 
+        "month": "2",
+        "day": "2",                             
+        "year": "2007"
+      },
+      "text": {
+        "headline": "Loi du 2 février 2007 de modernisation de la fonction publique",
+        "text": "<p>Mise en œuvre de la RGPP</p>"
+      }
+    },                                                                                                                                   
+    {         
+      "start_date": { 
+        "month": "1",
+        "day": "7",                             
+        "year": "2009"
+      },
+      "text": {
+        "headline": "ANI du 7 janvier 2009",
+        "text": "<p>Accord national interprofessionnel portant sur le développement de la formation tout au long de la vie professionnelle, la professionnalisation et la sécurisation des parcours professionnels.</p>"
+      }
+    },  
+    {     
+      "start_date": { 
+        "month": "11",
+        "day": "24",                             
+        "year": "2009"
+      },
+      "text": {
+        "headline": "Loi du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au long de la vie.",
+        "text": ""
+      }
+    },     
+    {
+      "media": {
+        "url": "https://twitter.com/Minist_Travail/status/573437566931861505"
+      },         
+      "start_date": { 
+        "month": "3",
+        "day": "5",                             
+        "year": "2014"
+      },
+      "text": {
+        "headline": "Loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale",
+        "text": "<p>Garantie du transfert intégral des droits acquis dans le cadre du droit individuel à la formation (DIF).</p>"
+      }
+    },    
+    {
+      "start_date": {                             
+        "year": "2015"
+      },
+      "text": {
+        "headline": "Loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale",
+        "text": "<p>Habilitation du Gouvernement à créer un établissement chargé d'exercer les missions actuellement assurées par l'Association nationale pour la formation professionnelle des adultes (AFPA) et préciser les missions exercées par cet établissement, notamment ses missions de service public.</p>"
+      }
+    },   
+  {
+    "media": {
+      "url": "https://twitter.com/JDNManagement/status/771635696322748417"
+    },         
+    "start_date": { 
+      "month": "3",
+      "day": "5",                             
+      "year": "2014"
+    },
+    "text": {
+      "headline": "Loi relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels",
+      "text": "<p>La loi Travail enrichi le CPF avec le CPA, le CPC et le C3P.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "https://www.youtube.com/watch?v=Kpl1wE4g09U"
+    },         
+    "start_date": { 
+      "month": "3",
+      "day": "5",                             
+      "year": "2018"
+    },
+    "text": {
+      "headline": "Big Bang de la formation professionnelle",
+      "text": "<p></p>"
+    }
+  }                  
+  ]
+}
