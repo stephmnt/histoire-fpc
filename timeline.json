@@ -362,12 +362,17 @@
           "text": "<p>Elle introduit dans le Code du travail le droit à la formation des salariés en CDD. Elle généralise l’obligation de financement de la formation.</p>"
         }
      },
-     {      
+     {    
+      "media": {
+        "url": "https://www.youtube.com/watch?v=lJ_qCyqX1KI",
+        "caption": "Loi Aubry contre l'exclusion",
+        "credit": "Archive INA"
+      },            
       "start_date": {
         "month": "7",
         "day": "17",          
         "year": "1992"
-      },
+      },  
       "display_date": "17 juillet 1992",        
       "text": {
         "headline": "Loi du 17 juillet 1992",
@@ -467,7 +472,12 @@
         "text": ""
       }
     },
-    {         
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=UeEw3Pvmeic",
+        "caption": "Loi Aubry contre l'exclusion",
+        "credit": "Archive INA"
+      },                  
       "start_date": {         
         "month": "7",
         "day": "29",          
