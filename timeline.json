@@ -174,7 +174,7 @@
       },
       {
         "media": {
-          "url": "https://www2.assemblee-nationale.fr/var/ezflow_site/storage/images/media/histoire/veme-republique/les-premiers-ministres/michel-debre/114118-1-fre-FR/michel-debre.jpg",
+          "url": "/assets/img/1959.jpg",
           "caption": "Michel Debré",
           "credit": "<a href='https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/la-ve-republique/tous-les-gouvernements-depuis-1958/presidence-de-charles-de-gaulle-1959-1969#node_8709' target='_blank'>&copy; AFP pour l'Assemblée Nationale</a>"
         }, 
@@ -601,41 +601,34 @@
       }
     },    
     {
-      "start_date": {                             
-        "year": "2015"
+      "media": {
+        "url": "https://twitter.com/JDNManagement/status/771635696322748417"
+      },         
+      "start_date": { 
+        "month": "8",
+        "day": "8",                             
+        "year": "2016"
       },
+      "display_date": "8 août 2016",
       "text": {
-        "headline": "Loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale",
-        "text": "<p>Habilitation du Gouvernement à créer un établissement chargé d'exercer les missions actuellement assurées par l'Association nationale pour la formation professionnelle des adultes (AFPA) et préciser les missions exercées par cet établissement, notamment ses missions de service public.</p>"
+        "headline": "Loi du 8 août 2016 relative au travail à la modernisation du dialogue social et à la sécurisation des parcours professionnels, dite « loi Travail »",
+        "text": "<p>La loi Travail enrichi le CPF avec le CPA, le CPC et le C3P.</p>"
       }
-    },   
-  {
-    "media": {
-      "url": "https://twitter.com/JDNManagement/status/771635696322748417"
-    },         
-    "start_date": { 
-      "month": "3",
-      "day": "5",                             
-      "year": "2014"
-    },
-    "text": {
-      "headline": "Loi relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels",
-      "text": "<p>La loi Travail enrichi le CPF avec le CPA, le CPC et le C3P.</p>"
-    }
-  },
-  {
-    "media": {
-      "url": "https://www.youtube.com/watch?v=Kpl1wE4g09U"
-    },         
-    "start_date": { 
-      "month": "3",
-      "day": "5",                             
-      "year": "2018"
-    },
-    "text": {
-      "headline": "Big Bang de la formation professionnelle",
-      "text": "<p></p>"
-    }
-  }                  
+    },  
+    {
+      "media": {
+        "url": "https://www.youtube.com/watch?v=Kpl1wE4g09U"
+      },         
+      "start_date": { 
+        "month": "3",
+        "day": "5",                             
+        "year": "2018"
+      },
+      "display_date": "5 mars 2018",    
+      "text": {
+        "headline": "Big Bang de la formation professionnelle",
+        "text": "<p>Loi liberté de choisir son avenir professionnel.</p>"
+      }
+    }                  
   ]
 }

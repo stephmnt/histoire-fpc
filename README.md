@@ -4,9 +4,10 @@
 
 ## Participer
 
-Pour signaler une erreur ou proposer une date ou un média complémentaire, utilisez la page github [issues](https://github.com/stephmnt/histoire-fpc/issues/new). 
+* [Signaler une erreur](https://github.com/stephmnt/histoire-fpc/issues)
+* [Proposer une date ou un média complémentaire](https://github.com/stephmnt/histoire-fpc/discussions). 
 
 ## liens utiles
 
-* [Base de données](https://docs.google.com/spreadsheets/d/1zdSAJm6HUi5tXFETzZWkIXFDx-oEi8O8R345d-qHQAc/edit#gid=0)
+* [Base de données](https://github.com/stephmnt/histoire-fpc/blob/master/timeline.json)
 * [Documentation Timeline](https://timeline.knightlab.com/docs/index.html)
