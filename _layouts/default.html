@@ -9,7 +9,7 @@
         <meta name="apple-touch-fullscreen" content="yes">
 
         <!-- CSS -->
-        <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+        <link rel="stylesheet" href="{{ site.url  | prepend: site.baseurl }}/assets/css/style.css">
         <link rel="stylesheet" href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css">     
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
         
@@ -23,7 +23,7 @@
     <header>
       <!-- Fixed navbar -->
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ site.url  | prepend: site.baseurl }}">{{ site.title }}</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
