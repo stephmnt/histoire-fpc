@@ -27,6 +27,7 @@ body {
 
 .main {margin-top: 96px;}
 
+/* équvalent au h2 de timeline */
 h1.mt-5 {
     font-family: 'PT Sans Narrow', sans-serif;
     text-transform: uppercase;
@@ -35,9 +36,22 @@ h1.mt-5 {
     line-height: 58px;
 }
 
+/* équivalent au p de timeline */
 p {
     font-family: 'PT Serif', serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.3em;
+    color: #737373;
+}
+
+/* équivalent à tl-headline-date */
+p.post-date {
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-weight: normal !important;
+    text-transform: uppercase !important;
+    font-size: 15px;
+    line-height: 15px;
+    margin: 0 0 3px 0;
+    color: #b3b3b3;
 }
