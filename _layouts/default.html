@@ -1,45 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr">
-    <head>
-        <title>Histoire de la FPC</title>
-        <meta name="description" content="Histoire de la Formation Professionnelle Continue">
-        <meta charset="utf-8">
-        <meta name="viewport" content="initial-scale=1,width=device-width">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-touch-fullscreen" content="yes">
-
-        <!-- CSS -->
-        <link rel="stylesheet" href="{{ site.url}}/{{site.baseurl }}/assets/css/style.css">
-        <link rel="stylesheet" href="https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css">     
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-        
-        <!-- Timeline.JS CSS Build -->
-        <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/fonts/font.default.css">
-        <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
-
-        </head>
+{% include head.html %}
 	<body>
 
-    <header>
-      <!-- Fixed navbar -->
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="{{ site.url}}/{{site.baseurl }}">{{ site.title }}</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="a-propos">À propos</a>          
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="evenements">Articles</a>
-            </li>
-          </ul>
-          <div class="mt-2 mt-md-0"><a class="nav-link" target="_blank" href="http://github.com/{{ site.github_username }}/histoire-fpc"><i class="fab fa-github"></i></a></div>
-        </div>
-      </nav>
-    </header>
+{% include header.html %} 
+ 
 
     <!-- Begin page content -->
     <main role="main" class="main">

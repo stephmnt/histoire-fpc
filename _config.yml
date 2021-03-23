@@ -5,11 +5,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Histoire de la formation professionnelle en France
 
 # prod
-baseurl: "histoire-fpc" 
-url: "https://stephma.net"
+# baseurl: "histoire-fpc" 
+# url: "https://stephma.net"
 
 # dév
-# url: "http://localhost:4000"
+url: "http://localhost:4000"
 
 # réseaux sociaux
 twitter_username: stephanemanet
