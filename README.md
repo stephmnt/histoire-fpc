@@ -1,6 +1,8 @@
 # histoire-fpc
 
-[Histoire de la Formation Professionnelle Continue](http://stephma.net/histoire-fpc/) en France via le script [Timeline.js](https://timeline.knightlab.com)
+[Histoire de la Formation Professionnelle Continue](http://stephma.net/histoire-fpc/) en France via le script [Timeline.js](https://timeline.knightlab.com).
+
+Il est déployé grâce au framework [Jekyll](https://jekyllrb.com/).
 
 ## Participer
 
