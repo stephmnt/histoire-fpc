@@ -23,7 +23,8 @@ body {
     background-color: #f5f5f5;
 }
 
-.social-nav {color: #fff;padding: 0 0,5rem;}
+.social-link {color: rgba(255,255,255,.5);padding: 0 0,5rem;}
+.social-link:hover {color: #fff;}
 
 .main {margin-top: 96px;}
 
@@ -55,3 +56,4 @@ p.post-date {
     margin: 0 0 3px 0;
     color: #b3b3b3;
 }
+

@@ -9,6 +9,10 @@ Il est déployé grâce au framework [Jekyll](https://jekyllrb.com/).
 * [Signaler une erreur](https://github.com/stephmnt/histoire-fpc/issues)
 * [Proposer une date ou un média complémentaire](https://github.com/stephmnt/histoire-fpc/discussions). 
 
+Pour participer, vous pouvez soit faire un signalement, soit faire 
+
+https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/
+
 ## liens utiles
 
 * [Base de données](https://github.com/stephmnt/histoire-fpc/blob/master/timeline.json)

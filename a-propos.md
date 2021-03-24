@@ -1,5 +1,6 @@
 ---
 layout: article
+permalink: a-propos
 title: À propos
 ---
 Le site web _histoire de la formation professionnelle continue_ a été réalisée grâce au script Timeline.JS. Il est maintenu à jour par [Stéphane Manet](https://stephma.net) sur [Github](https://github.com/stephmnt/histoire-fpc).
